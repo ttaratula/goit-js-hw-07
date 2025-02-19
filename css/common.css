@@ -88,3 +88,30 @@ max-width: calc(100% - 2 * 24) / 3; */
   object-fit: cover;
  
 }
+
+/*Task 3*/
+
+#name-input{
+  width: 360px;
+  height: 40px;
+}
+
+#name-input{
+padding: 8px 140px 8px 16px;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 4%;
+
+}
+
+/*Task 4*/
+
+/*Task 5*/
+.change-color{
+background-color: #4E75FF;
+border-radius: 8px;
+color: #FFFFFF;
+padding: 8px 16px;
+;
+}
