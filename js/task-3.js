@@ -5,6 +5,6 @@ const inputEl = document.querySelector("#name-input");
 const outputEl = document.querySelector("#name-output");
 
 inputEl.addEventListener("input", () => {
-  const trimmedValue = inputEl.value.trim(); // Очищаємо пробіли по краях
-  outputEl.textContent = trimmedValue ? trimmedValue : "Anonymous"; // Якщо порожньо, показуємо "Anonymous"
+  const trimmedValue = inputEl.value.trim(); 
+  outputEl.textContent = trimmedValue ? trimmedValue : "Anonymous"; 
 });
