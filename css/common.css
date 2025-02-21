@@ -165,8 +165,8 @@ body {
 }
 
 #controls button {
-  width: 120;
-  height: 40;
+  width: 120px;
+  height: 40px;
   border-radius: 8px;
   padding: 8px 16px;
   gap: 10px;

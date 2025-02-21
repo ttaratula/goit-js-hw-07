@@ -42,7 +42,7 @@ function createBoxes(amount) {
   const boxes = [];
 
   for (let i = 0; i < amount; i++) {
-      const boxSize = 30 + i * 10; // Розміри квадратів
+      const boxSize = 30 + i * 10; 
       const box = document.createElement('div');
       box.style.width = `${boxSize}px`;
       box.style.height = `${boxSize}px`;
